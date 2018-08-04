@@ -1,0 +1,42 @@
+[
+   {
+      "title": "The Manchester Museum",
+      "pos": {
+         "lat": "53.4663",
+         "lng": "-2.2342"
+      },
+      "id": 1
+   },
+   {
+      "title": "Elizabeth Gaskell House",
+      "pos": {
+         "lat": "53.4637",
+         "lng": "-2.2211"
+      },
+      "id": 2
+   },
+   {
+      "title": "Imperial War Museum North",
+      "pos": {
+         "lat": "53.4697",
+         "lng": "-2.2987"
+      },
+      "id": 3
+   },
+   {
+      "title": "Museum Of Transport",
+      "pos": {
+         "lat": "53.5030",
+         "lng": "-2.2336"
+      },
+      "id": 4
+   },  
+   {
+      "title": "People's History Museum",
+      "pos": {
+         "lat": "53.4814",
+         "lng": "-2.2529"
+      },
+      "id": 5
+   }
+]
